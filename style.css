@@ -1,0 +1,42 @@
+﻿*
+{
+    font-family: Arial;
+}
+
+h1
+{
+    color: green;
+	font-family: "Bradley Hand ITC";
+	 font-size: xx-large;
+}
+
+
+h2
+{
+    color: green;
+	font-size: large;
+	font-family: "Bradley Hand ITC";
+}
+
+a
+{
+    color: green;
+	font-size: x-large;
+	font-family: "Bradley Hand ITC";
+	text-decoration: none;
+}
+
+body
+{
+    background-image: url("fond.jpg");
+}
+
+a:hover 
+{
+     color: green;
+}
+
+a:visited 
+{
+    color: green;
+}
